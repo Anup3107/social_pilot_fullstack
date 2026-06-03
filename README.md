@@ -196,5 +196,4 @@ Same CRUD pattern: GET / POST on `/:resource`, PUT / DELETE on `/:resource/:id`
 
 ---
 
-## License
-MIT — Free to use for personal and commercial projects.
+
