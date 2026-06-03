@@ -72,6 +72,7 @@ npm run dev
 - Frontend: http://localhost:5173
 - Backend API: http://localhost:5000/api
 - Health check: http://localhost:5000/api/health
+- Host: https://social-pilot-fullstack.vercel.app/
 
 ### 4. Register your account
 Open the app, click "Sign Up", and create your account. Data is stored in your MongoDB.
